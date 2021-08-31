@@ -1,0 +1,129 @@
+#title {
+    background-color: #ff4c68;
+    padding: 1rem;
+}
+.title-logo {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 4rem;
+}
+#navbarNav {
+    margin-left: 9%;
+}
+#brand-name {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    padding-left:9%;
+}
+#navigation:hover {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+#title-div {
+    margin-top: 5%;
+    padding-left: 10%;
+}
+.phone-logo {
+transform: rotate(21deg);
+width: 57%;
+padding-left: 3rem;
+margin-top: 2%; 
+}
+#download-button {
+    text-align: left;
+    margin-top: 12%;
+    margin-left: 1%;
+}
+#features {
+padding: 7% 13%;
+text-align: center;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    font-weight: lighter;
+}
+.check {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.testimonals {
+    background-color: #ff4c68;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    padding-left: 0%;
+    padding-bottom: 5%;
+}
+.line-height {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    padding: 5%;
+}
+.image-t {
+    width: 10%;
+    border-radius: 100%;
+}
+#press {
+    margin-top: 13px;
+    text-align: center;
+    padding-top: 5%;
+    width: 100%;
+    padding-left: 2%;
+    padding-bottom:4%;
+    background-color:#ff4c68;
+}
+#press-image {
+    margin-bottom: 30px;
+}
+#h2-heading {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 3.5rem;
+
+}
+
+#pricing {
+    text-align: center;
+    padding-top: 6%;
+    margin-bottom: 7%;
+
+}
+
+#card-item {
+    padding-top: 7%;
+    text-align: center;
+
+}
+#card-unit {
+    margin-bottom: 15%;
+
+}
+#callto {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 6%;
+
+}
+#h3-callto {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+.download-icon {
+    margin-right: 2%;
+    margin-bottom:3%;
+
+}
+#footer {
+    text-align: center;
+    color: black;
+    padding-top: 2%;
+    padding-bottom:2%;
+
+
+}
